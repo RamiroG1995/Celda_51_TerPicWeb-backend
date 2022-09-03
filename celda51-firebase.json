@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "celda-51",
+  "private_key_id": "fc9caf1de67e025b3b60e67c617310658c70640c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXYVd6Z5Xhgqta\nDRThI+K5PBzhTvdSM6DIciQiGDAEruMzKhz043mGAfwuNUjDds/kL2qFZG/w6qc0\n9Qvw+JxobidsEkt4vpPOWHOYOMe2weKLr+O4vbx2FztmTdB13GK9w0ErlR0cjcuf\nCyRHnpAwvoEkMMzTaiGNm7GhTidRrtc6Kn8EddHfOSgn11c+VIBniu3Z08tsDJK6\nTws0S5IWq10ZqwE/EqBfkP9Uj5QwGriv22zzCZhzHNua6cuNgGHzOy27eWCUxSqC\noG4IGKF5gOyotWav/F/u+uoD+zBmplBdTlmKpzaIyUKo51kpHcxx/xLl5AWH9fta\n1NGo9SnJAgMBAAECggEAG7epPFVsUnMwfgxE7Zxipxf3V3+EEI4YWPNndwPJ2jBv\niLwYseM8VmSXAZNV4+G8a0821CfSyBxKnGQUv1QfPMlARYYtNELCXsG/To2wFfLp\nprRiB/pS8JeYy1ekRiawhl9EWcl8z5nn5HXYm2bqg3tgvzmQgnycCM9KksmuAbLT\n8Fa3P48aK1QO4grhldaeN/jeu92NyXl07IK1/ngO8z4WP/R2fjM0/wDG5/g/LK50\nWQyP+VvqSZrGEowsuB745TDpepuqlcInnMBoY1KBTlGiyrIstBTuDFs6GE4zf/9C\n//EV1MToRrXCbfu7JnWqitrmaZoHr8OxI5uVDCtLSQKBgQD5QLccxGHy0OFduIYD\nCydgymVBSxuBNUV+qPtsk2a4CamkdS+E3XW+FwZh+LNKoHTSVayiCuFZtSHwZ7HW\n4TpW9VK02fQW/2mIgg21H3DqAnT4/96tagSrzmSmHwDctk6GJWTqL+AvBJaGlGof\nu248zbvYNQ+xoUJ3Fy2RLPTUWwKBgQDdNeUKCQGL0GpMxNxMObn2EpTeAtfOpQs9\naO/8FLh+KYHjcH7uu4dL96BZtX0/JvC4Sn4qdidI1YCLPlIFa0QhU7FE/cZzPuOi\nhWYRfO81xUTcZhfCQAeLSxqIBYHzlYxU5YfDzU77Bb7AGC/4loQ/MIMN374CYNyl\n+kw7kx7DqwKBgQCBaqSo/x6MYQBjFSgf9G6hxvUEDedeEzbeKQdCvNYcwIegqGff\n6Mz1wibCP8t3+BAwFePozxVq6q2QkYa5N4B/HimvVWtzdXJqOny7inOqTVRG5TPN\nfrqmKigASSC9eLsU092t6uXQA+XUQsNHbp4yW/AotoRLiptkEljKhDkq+QKBgG+X\nsZx3YJ1MnWNu6AdYE7TMOOcqnf20CtCG8JHFTjDu9YRsCsyaM62iFPVMdgt2tHbz\ntWPsSPMYKYmU/cGYFD2Pv9yi/QrETgd9rjjiQrZods2Mfy3SKTwevhqiVKUx6yIk\nzHF9T/uYMVssmH6aR8qsyWAlX/BJNuZQN0bSd/GTAoGBAM5gmlTbcs8jK4Z7vIY6\nolDrIbcXjq6zqS43q4gp19NXIpDzOk/tQjnixQPwjRZHUKApTMPBFVleWQba1cvW\n29/xnZbK4AJPuUsbHaoL5C1iiFzwsC9/AdEfI1lvujZMbG2eoSe7JgKh9CkLADbD\n1NBzdL/MnKF4IMM3FQeiu6t1\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6qqt4@celda-51.iam.gserviceaccount.com",
+  "client_id": "111280539870127069533",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6qqt4%40celda-51.iam.gserviceaccount.com"
+}
